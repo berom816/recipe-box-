@@ -1,0 +1,64 @@
+body{
+  margin:0;
+  padding:0;
+  padding-top:20px;
+  font-family:sans-serif;
+}
+
+.recipeCard{
+  border:1px solid rgb(223,240,216);
+  border-radius:5px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+p{
+  margin-top:15px;
+  text-align:center;
+  font-size:18px;
+}
+
+.dishTitle{
+  background-color:rgb(223,240,216);
+  font-size:18px;
+  min-height:40px;
+  padding:5px 5px 5px 15px; 
+  border:1px solid rgb(223,240,216);
+  width:100%;
+}
+
+.dishTitleInput{
+  margin-left:-5px;
+  width:100%;
+}
+
+.individualIngredientDiv{
+  border:1px solid rgb(221,221,221);
+  font-size:16px;
+  padding:5px;
+  width:94%;
+  margin:auto;
+}
+
+.input-group{
+  width:94%;  
+  margin:auto;
+}
+
+.btn-margin{
+  margin:10px 5px 10px 5px;
+}
+
+.editButton{
+  margin-left:3%;
+}
+
+.plusButton{
+  margin-left:3%;
+}
+
+.app{
+  width:75%;
+  margin:auto;
+}
+
