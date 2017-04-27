@@ -1,2 +1,2 @@
 # recipe box
-recipe box build using React with local storage
+recipe box built using React with local storage
